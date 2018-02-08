@@ -1,0 +1,8 @@
+{
+  "name": "visionApp",
+  "app_id": "da8caf21",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
