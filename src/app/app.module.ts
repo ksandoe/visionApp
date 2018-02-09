@@ -19,7 +19,7 @@ const firebaseConfig = {
   authDomain: 'visionapp-8606f.firebaseapp.com',
   databaseURL: 'https://visionapp-8606f.firebaseio.com',
   projectId: 'visionapp-8606f',
-  storageBucket: 'visionapp-8606f.appspot.com',
+  storageBucket: 'visionapp-8606f-hotdog',
   messagingSenderId: '268519562614'
 };
 
