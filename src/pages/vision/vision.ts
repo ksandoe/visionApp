@@ -66,8 +66,8 @@ export class VisionPage {
       quality: 100,
       destinationType: this.camera.DestinationType.DATA_URL,
       encodingType: this.camera.EncodingType.JPEG,
-      mediaType: this.camera.MediaType.PICTURE,
-      sourceType: this.camera.PictureSourceType.PHOTOLIBRARY
+      mediaType: this.camera.MediaType.PICTURE
+      // sourceType: this.camera.PictureSourceType.PHOTOLIBRARY
     };
 
     const base64 = await this.camera.getPicture(options);
